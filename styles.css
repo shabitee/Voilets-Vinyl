@@ -1,0 +1,47 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+*{
+    box-sizing: border-box;
+    font-family:"Segoe UI,Verdana sans-serif";
+    
+
+}
+.header1{
+    font-family:"Segoe UI,Verdana sans-serif";
+    text-align:center;
+    font-size: 50px;
+    background-image:url("https://78rpm.club/wp-content/uploads/2018/12/KING-JP-1024x1024.jpg");
+    color:white;
+}
+.header2{
+    background-color:orange;
+    text-align: center;
+    color:white;
+}
+
+
+img{
+    width:500px;
+}
+body{
+   background-color: black;
+}
+h3{
+   color:white;
+}
+p{
+color:white;
+font-weight: bold;
+}
+#header3{
+    background-color: #0e7c7b;
+    text-align: center;
+    color: white;
+}
+#header4{
+background-color: #9c538b;
+text-align: center;
+color: white;
+}
+a:hover{
+    color:#9c52Bb;
+}
